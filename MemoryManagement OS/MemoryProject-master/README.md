@@ -1,7 +1,7 @@
 Memory Manager
 ==============
 
-This project is for COM 310 Operating System Course
+This project is based on Operating System 
 
 You (the user) simulate the scheduler and input the data to be 
 stored in memory for the next process, both interactively, and randomly or from a file.
@@ -29,4 +29,3 @@ Draw all components including:
 * Input for PID (Process ID#)
 * Input for Process Size
 
-This repo will be archived ... bad programmer ... it was a failure ... I will try again ...
